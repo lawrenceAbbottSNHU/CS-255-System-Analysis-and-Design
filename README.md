@@ -1,11 +1,16 @@
 # CS-255-System-Analysis-and-Design
 
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The DriverPass project is centered around the need for better educational resources for student drivers as they prepare to take the driving test. Liam, the client and owner of DriverPass, has recognized the void in the market when it comes to driving education and has shared his ideas for an online system. He has asked our small consulting company to develop a system that will aid student drivers as they learn to drive with hopes of improving the overall percentage of passing grades of students taking their drivers test. 
 
 # What did you do particularly well?
+When meeting with clients, whether it be during the initial meetings or when presenting the prototype system design, based on their ideas and requirements, it is important to have effective communication. This is especially important when dealing with clients who are non-technical in nature. In system design the skill of translating a client's requests in to a language that a development team can understand and then back again into a language that the client can understand is highly important. I feel like I exercised these communication skills particularly well during the course of this project. 
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If given the opportunity to revise one part of the project, it would use that opportunity to be more specific in my UML class diagram. The assignment requirements stated that adding methods to the classes of the class diagram was optional and so for the sake of time, it did not include them. If I had more time this is the first thing I would change as I feel that the class diagram is largely incomplete without them. 
 
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+When thinking of the end user in a system such as this, I feel that a user's trust in the security of the system is of great importance. Although this was not a requirement of the client, per se, any time that a user's sensitive information is passed into a system and stored by that system there is an inherent need to maintain and enforce security protocols, otherwise you run the risk of losing the trust of the user. Furthermore, the user's trust is not the only thing at stake, as the repercussions of mishandling sensitive user information could be far worse. 
 
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I can best describe my approach to designing software as an exercise in critical listening and critical thinking. I believe this is the essence of system design. My strategy for system design would start with a focus on listening, immediately followed with a focus on how to best communicate the information to a technical team, because all the information in the world is completely useless if that information cannot also be effectively gleaned and translated into a usable resource. 
